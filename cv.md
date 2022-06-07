@@ -24,4 +24,12 @@ func BoolToWord(word bool) string {
   }
 }
 ```
+```
+using namespace std;
 
+string bool_to_word(bool value)
+{
+    return (value ? "Yes" : "No");
+}
+```
+![test pictures] (https://cdn-icons-png.flaticon.com/512/6132/6132222.png)
